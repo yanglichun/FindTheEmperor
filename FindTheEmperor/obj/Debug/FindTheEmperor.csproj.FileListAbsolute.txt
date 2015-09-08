@@ -16,3 +16,6 @@ D:\Program Files (x86)\vsCodeSave\FindTheEmperor\FindTheEmperor\obj\Debug\FindTh
 D:\Program Files (x86)\vsCodeSave\FindTheEmperor\FindTheEmperor\obj\Debug\WindowsFormsApplication2.Form1.resources
 D:\Program Files (x86)\vsCodeSave\FindTheEmperor\FindTheEmperor\obj\Debug\FindTheEmperor.Properties.Resources.resources
 D:\Program Files (x86)\vsCodeSave\FindTheEmperor\FindTheEmperor\obj\Debug\FindTheEmperor.csproj.GenerateResource.Cache
+D:\我的C#\ForGit\FindTheEmperor\FindTheEmperor\bin\Debug\FindTheEmperor.exe.config
+D:\我的C#\ForGit\FindTheEmperor\FindTheEmperor\obj\Debug\FindTheEmperor.exe
+D:\我的C#\ForGit\FindTheEmperor\FindTheEmperor\obj\Debug\FindTheEmperor.pdb
